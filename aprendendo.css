@@ -1,0 +1,19 @@
+.texto {
+    color: aqua;
+    font-weight: bold;
+}
+.dia{
+    color: darkred;
+    font-size: 27px;
+    font-weight: bold;
+}
+.negrito{
+    font-weight: bold;
+}
+a{
+    font-size: 30px;
+    color: gold;
+}
+.teste{
+    background-color: violet;
+}
