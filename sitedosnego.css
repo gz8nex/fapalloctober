@@ -1,0 +1,46 @@
+.tit{
+    font-size: 100px;
+    color: rgb(95, 95, 95);
+    background-color: rgb(0, 0, 0);
+    width: 1200px;
+    border: 10px solid dodgerblue
+}
+.vid{
+    font-size: 37px;
+    background-color: rgb(0, 0, 0);
+    margin: 50px;
+    color: rgb(95, 95, 95);
+    padding: 10px;
+    background-size: 40px;
+    background-color: 10px;
+    width: 500px;
+    border: 5px solid dodgerblue
+}
+body{
+    margin:0px;
+    background-color: rgb(27, 27, 27);
+
+}
+.buc{
+    width: 350px;
+    height: 200px;
+}
+#buc{
+    width: 265px;
+    height: 150px;
+    float: left;
+    margin: 15px;
+    border-color: dodgerblue;
+    border-width: 5px;
+    border-style: solid;
+    margin: 20px;
+    
+}
+.buc2{
+    width: 350px;
+    height: 200px;
+    border-color: dodgerblue;
+    border-width: 5px;
+    border-style: solid;
+}
+    
